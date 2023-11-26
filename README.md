@@ -1,5 +1,5 @@
 
-# Repositorios curso Desarrollo Web Entorno Cliente 2023/2024
+# Repositorios curso Desarrollo Web Entorno Cliente
 
 Aquí podrás descargar los códigos fuentes estudiados en cada unidad de trabajo
 
